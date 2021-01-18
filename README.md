@@ -17,23 +17,23 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="bootstap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-<img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
-<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-<img align="left" alt="Socket.io" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
-<img align="left" alt="Material-UI" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="Terminal / Linux / Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
-<img align="left" alt="Denizen Script For Minecraft" width="26px" src="https://avatars1.githubusercontent.com/u/8698408?s=400&v=4" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="bootstap" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="Mongoose" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />
+<img align="left" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
+<img align="left" alt="Socket.io" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />
+<img align="left" alt="Material-UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="Terminal / Linux / Unix" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<img align="left" alt="Denizen Script For Minecraft" width="32px" src="https://avatars1.githubusercontent.com/u/8698408?s=400&v=4" />
 
 <br />
 <br />
