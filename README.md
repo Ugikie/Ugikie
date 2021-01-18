@@ -1,10 +1,10 @@
-### Hi, I'm Austin - aka [Ugikie][website] Nice to meet you! 👋
+### Hi, I'm Austin - aka [Ugikie][website]. Nice to meet you! 👋
 
 ## I'm a Full Stack Developer who loves React, and is ready to make the next big thing!
 
 - ⚔ I'm currently working on mastering React, with the help of Node.js
 - 🎮 I love making games and creating ways for people to have a unique experience every time they play
-- 📅 Always trying to keep things fresh and up-to-date with the latest and greatest technologies
+- 📅 Always trying to keep things fresh and up-to-date with the latest and greatest technology
 - 🏆 2021 Goals: Join a team of skilled developers, contribute to open source, and make something amazing
 
 ### Connect with me:
