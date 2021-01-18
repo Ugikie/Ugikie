@@ -21,5 +21,5 @@
 <br />
 
 [website]: https://www.austinadam.com
-[email]: austinadam42@gmail.com
+[email]: mailto:austinadam42@gmail.com
 [linkedin]: https://www.linkedin.com/in/austin-adam-56771068/
