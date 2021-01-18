@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />[https://code.visualstudio.com/]
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />[https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5]
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />[https://developer.mozilla.org/en-US/docs/Archive/CSS3]
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />[https://www.javascript.com/]
