@@ -29,9 +29,9 @@
 [<img align="left" alt="Mongoose" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" />](https://mongoosejs.com/)
 [<img align="left" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />](https://expressjs.com/)
 [<img align="left" alt="Socket.io" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" />](https://socket.io/)
-[<img align="left" alt="Material-UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />](https://material-ui.com/)
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/)
+<!-- [<img align="left" alt="Material-UI" width="32px" src="https://material-ui.com/static/logo_raw.svg" />](https://material-ui.com/) -->
+<!-- [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/) -->
 [<img align="left" alt="Terminal / Linux / Unix" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://ubuntu.com/)
 [<img align="left" alt="Denizen Script For Minecraft" width="32px" src="https://avatars1.githubusercontent.com/u/8698408?s=400&v=4" />](https://github.com/DenizenScript/Denizen)
 
