@@ -1,6 +1,6 @@
 ### Hi, I'm Austin - aka [Ugikie][website]. Nice to meet you! 👋
 
-## I'm a Full Stack Developer who loves React!
+## I'm a Full Stack Engineer who loves React!
 
 - ⚔ I'm currently working on mastering React, with the help of Node.js
 - 🎮 I love making games and creating ways for people to have a unique experience every time they play
