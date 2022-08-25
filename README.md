@@ -7,11 +7,15 @@
 - 📅 Always trying to keep things fresh and up-to-date with the latest and greatest technology
 - 🏆 2021 Goals: Join a team of skilled developers, contribute to open source, and make something amazing
 
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ugikie&theme=radical&count_private=true&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)]
+
 ### Connect with me:
 
 [<img align="left" alt="austinadam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="austinadam.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
-[<img align="left" alt="Austin Adam on LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Austin Adam on LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2506794-2100694.png" />][linkedin]
 
 <br />
 
