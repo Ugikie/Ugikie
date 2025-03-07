@@ -2,18 +2,16 @@
 
 ## I'm a seasoned Full Stack Engineer who loves turning complex problems into elegant code.
 
-- ⚡ Building scalable web applications with React, Next.js, and Node.js for fast, responsive experiences.
-- 🎮 Crafting multiplayer game experiences with unique, engaging gameplay mechanics.
-- 🚀 Exploring cutting-edge tech from AWS to DevOps to keep projects efficient and future-proof.
-- 🎯 Solving impactful challenges with innovative solutions that drive meaningful results.
+- ⚡ Building scalable web applications with React, Next.js, and Node.js for fast, responsive experiences
+- 🎮 Crafting multiplayer game experiences with unique, engaging gameplay mechanics
+- 🚀 Exploring cutting-edge tech from AWS to DevOps to keep projects efficient and future-proof
+- 🎯 Solving impactful challenges with innovative solutions that drive meaningful results
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="austinadam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)][linkedin]
-
-<br />
 
 ### Languages and Tools:
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -26,7 +24,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Unity](https://img.shields.io/badge/-Unity-%23444444?style=for-the-badge&logo=unity&logoColor=white) 
 
-<br />
 <br />
 
 [website]: https://www.austinadam.com
